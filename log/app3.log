@@ -1,0 +1,25 @@
+2026-03-01 00:00:00 INFO Démarrage du service de monitoring système v2.1.0
+2026-03-01 00:05:00 INFO Collecte des métriques système démarrée — intervalle : 5 minutes
+2026-03-01 00:10:00 INFO CPU : 12% | RAM : 45% | Disque : 61% — état nominal
+2026-03-01 00:30:00 INFO Vérification des services actifs — tous les services sont opérationnels
+2026-03-01 01:00:00 WARN Utilisation CPU supérieure à 85% — pic détecté sur le processus java(PID 2341)
+2026-03-01 01:05:00 WARN Utilisation CPU supérieure à 85% — pic détecté sur le processus java(PID 2341)
+2026-03-01 01:10:00 INFO Utilisation CPU revenue à la normale : 34%
+2026-03-01 02:00:00 INFO Rapport de métriques horaires généré avec succès
+2026-03-01 03:00:00 INFO Tâche planifiée de nettoyage des fichiers temporaires démarrée
+2026-03-01 03:05:14 INFO 1.2 Go de fichiers temporaires supprimés avec succès
+2026-03-01 04:15:33 ERROR Espace disque critique sur /var/log — utilisation à 95%
+2026-03-01 04:15:34 ERROR Impossible d'écrire dans le fichier de log — espace disque insuffisant
+2026-03-01 04:20:00 INFO Nettoyage d'urgence des anciens logs effectué — 3.5 Go libérés
+2026-03-01 05:00:00 INFO CPU : 8% | RAM : 50% | Disque : 72% — état nominal
+2026-03-01 06:30:22 WARN Température du serveur élevée : 78°C (seuil critique : 85°C)
+2026-03-01 07:00:00 INFO Vérification des mises à jour de sécurité — 3 mises à jour disponibles
+2026-03-01 08:00:00 INFO Rapport de métriques horaires généré avec succès
+2026-03-01 09:45:10 ERROR Service de backup non joignable — tentative de reconnexion échouée
+2026-03-01 10:00:00 INFO CPU : 22% | RAM : 60% | Disque : 73% — état nominal
+2026-03-01 11:30:00 WARN Utilisation RAM supérieure à 80% — processus suspects détectés
+2026-03-01 12:00:00 INFO Rapport de métriques horaires généré avec succès
+2026-03-01 14:22:18 ERROR Espace disque critique sur /var/log — utilisation à 95%
+2026-03-01 15:00:00 INFO CPU : 18% | RAM : 55% | Disque : 74% — état nominal
+2026-03-01 18:00:00 WARN Latence réseau élevée détectée vers le serveur distant : 320ms
+2026-03-01 23:59:00 INFO Bilan journalier — 4 erreurs critiques, 6 avertissements, système stable
