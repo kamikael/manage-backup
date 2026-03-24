@@ -1,0 +1,25 @@
+2026-03-01 00:01:12 INFO Demarrage du serveur web Nginx sur le port 80
+2026-03-01 00:05:33 INFO Certificat SSL charge avec succes
+2026-03-01 01:12:45 INFO Requete GET /index.html 200 OK 12ms
+2026-03-01 02:34:10 WARN Temps de reponse eleve detecte 1850ms pour /api/users
+2026-03-01 03:15:22 ERROR Echec de la connexion au serveur LDAP timeout apres 30s
+2026-03-01 03:15:45 ERROR Echec de la connexion au serveur LDAP timeout apres 30s
+2026-03-01 04:00:01 INFO Tache planifiee de nettoyage du cache demarree
+2026-03-01 04:00:05 INFO Cache vide avec succes 340 entrees supprimees
+2026-03-01 05:22:18 WARN Nombre de connexions simultanees eleve 487 sur 500
+2026-03-01 06:10:44 ERROR Erreur 502 Bad Gateway backend non disponible
+2026-03-01 06:11:02 ERROR Erreur 502 Bad Gateway backend non disponible
+2026-03-01 07:30:00 INFO Redemarrage automatique du service web planifie
+2026-03-01 07:30:15 INFO Service web redemarre avec succes en 15s
+2026-03-01 08:45:33 WARN Certificat SSL expire dans 7 jours
+2026-03-01 09:00:00 INFO Sauvegarde des logs de nuit effectuee
+2026-03-01 10:12:55 ERROR Echec de la connexion au serveur LDAP timeout apres 30s
+2026-03-01 11:34:21 INFO Requete POST /api/login 200 OK 45ms
+2026-03-01 12:00:00 INFO Rapport journalier genere avec succes
+2026-03-01 13:22:10 WARN Utilisation memoire du worker nginx superieure a 80%
+2026-03-01 14:05:47 ERROR Erreur 500 Internal Server Error exception non geree dans /api/orders
+2026-03-01 15:18:32 INFO Requete GET /api/products 200 OK 23ms
+2026-03-01 16:45:09 WARN Tentative de connexion echouee repetee depuis IP 192.168.1.45
+2026-03-01 17:30:00 INFO Mise a jour de configuration rechargee sans interruption
+2026-03-01 18:10:22 ERROR Erreur 502 Bad Gateway backend non disponible
+2026-03-01 23:59:59 INFO Fin de journee 4821 requetes traitees 3 erreurs critiques

@@ -1,0 +1,25 @@
+2026-03-01 00:00:00 INFO Demarrage du service de monitoring systeme v2.1.0
+2026-03-01 00:05:00 INFO Collecte des metriques systeme demarree intervalle 5 minutes
+2026-03-01 00:10:00 INFO CPU 12% RAM 45% Disque 61% etat nominal
+2026-03-01 00:30:00 INFO Verification des services actifs tous les services sont operationnels
+2026-03-01 01:00:00 WARN Utilisation CPU superieure a 85% pic detecte sur le processus java
+2026-03-01 01:05:00 WARN Utilisation CPU superieure a 85% pic detecte sur le processus java
+2026-03-01 01:10:00 INFO Utilisation CPU revenue a la normale 34%
+2026-03-01 02:00:00 INFO Rapport de metriques horaires genere avec succes
+2026-03-01 03:00:00 INFO Tache planifiee de nettoyage des fichiers temporaires demarree
+2026-03-01 03:05:14 INFO 1.2 Go de fichiers temporaires supprimes avec succes
+2026-03-01 04:15:33 ERROR Espace disque critique sur /var/log utilisation a 95%
+2026-03-01 04:15:34 ERROR Impossible d ecrire dans le fichier de log espace disque insuffisant
+2026-03-01 04:20:00 INFO Nettoyage d urgence des anciens logs effectue 3.5 Go liberes
+2026-03-01 05:00:00 INFO CPU 8% RAM 50% Disque 72% etat nominal
+2026-03-01 06:30:22 WARN Temperature du serveur elevee 78C seuil critique 85C
+2026-03-01 07:00:00 INFO Verification des mises a jour de securite 3 mises a jour disponibles
+2026-03-01 08:00:00 INFO Rapport de metriques horaires genere avec succes
+2026-03-01 09:45:10 ERROR Service de backup non joignable tentative de reconnexion echouee
+2026-03-01 10:00:00 INFO CPU 22% RAM 60% Disque 73% etat nominal
+2026-03-01 11:30:00 WARN Utilisation RAM superieure a 80% processus suspects detectes
+2026-03-01 12:00:00 INFO Rapport de metriques horaires genere avec succes
+2026-03-01 14:22:18 ERROR Espace disque critique sur /var/log utilisation a 95%
+2026-03-01 15:00:00 INFO CPU 18% RAM 55% Disque 74% etat nominal
+2026-03-01 18:00:00 WARN Latence reseau elevee detectee vers le serveur distant 320ms
+2026-03-01 23:59:00 INFO Bilan journalier 4 erreurs critiques 6 avertissements systeme stable

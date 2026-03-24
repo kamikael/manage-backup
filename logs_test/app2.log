@@ -1,0 +1,25 @@
+2026-03-01 00:00:05 INFO Demarrage du service PostgreSQL version 15.2
+2026-03-01 00:00:10 INFO Connexion au pool de base de donnees etablie 20 connexions actives
+2026-03-01 00:30:14 INFO Sauvegarde automatique dump de la base demarree
+2026-03-01 00:45:22 INFO Sauvegarde terminee avec succes 2.3 Go exportes
+2026-03-01 01:10:33 WARN Requete lente detectee SELECT sur orders 4200ms
+2026-03-01 02:05:41 ERROR Echec de la connexion a la base de donnees too many connections
+2026-03-01 02:05:55 ERROR Echec de la connexion a la base de donnees too many connections
+2026-03-01 02:06:10 ERROR Echec de la connexion a la base de donnees too many connections
+2026-03-01 02:10:00 INFO Connexions excedentaires fermees retour a 85 connexions actives
+2026-03-01 03:22:18 WARN Index manquant detecte sur la table transactions
+2026-03-01 04:00:00 INFO Maintenance automatique VACUUM demarree sur la base principale
+2026-03-01 04:35:12 INFO Maintenance terminee 12000 lignes mortes supprimees
+2026-03-01 06:14:30 ERROR Violation de contrainte d integrite cle etrangere invalide dans users
+2026-03-01 07:45:00 INFO Replication vers le serveur secondaire synchronisee avec succes
+2026-03-01 08:30:55 WARN Espace disque du tablespace principal a 78% de capacite
+2026-03-01 09:12:44 INFO Nouvelle migration de schema appliquee version 1.4.2
+2026-03-01 10:00:00 INFO Statistiques mises a jour sur toutes les tables
+2026-03-01 11:22:07 ERROR Deadlock detecte entre les transactions T1045 et T1046 rollback effectue
+2026-03-01 12:45:19 WARN Requete lente detectee JOIN sur users et transactions 3800ms
+2026-03-01 13:10:33 INFO Connexion de l utilisateur admin depuis 10.0.0.1 reussie
+2026-03-01 15:00:00 INFO Sauvegarde incrementale effectuee avec succes
+2026-03-01 17:34:21 ERROR Echec de la connexion a la base de donnees too many connections
+2026-03-01 19:00:00 INFO Rotation des journaux de transaction effectuee
+2026-03-01 21:15:44 WARN Taux de cache hit en baisse 72 pourcent seuil recommande 90
+2026-03-01 23:59:50 INFO Arret propre du service PostgreSQL initie

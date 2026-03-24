@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "date": "2026-03-24 12:44:40",
+        "utilisateur": "Jean-Claude",
+        "os": "Windows",
+        "source": "C:\\Users\\Jean-Claude\\Desktop\\manage-backup\\logs_test"
+    },
+    "statistiques": {
+        "total_lignes": 17,
+        "par_niveau": {
+            "ERROR": 17,
+            "WARN": 0,
+            "INFO": 0
+        },
+        "top5_erreurs": [
+            "Echec de la connexion a la base de donnees too many connections",
+            "Echec de la connexion au serveur LDAP timeout apres 30s",
+            "Erreur 502 Bad Gateway backend non disponible",
+            "Espace disque critique sur /var/log utilisation a 95%",
+            "Erreur 500 Internal Server Error exception non geree dans /api/orders"
+        ]
+    },
+    "fichiers_traites": [
+        "C:\\Users\\Jean-Claude\\Desktop\\manage-backup\\logs_test\\app1.log",
+        "C:\\Users\\Jean-Claude\\Desktop\\manage-backup\\logs_test\\app2.log",
+        "C:\\Users\\Jean-Claude\\Desktop\\manage-backup\\logs_test\\app3.log"
+    ]
+}
